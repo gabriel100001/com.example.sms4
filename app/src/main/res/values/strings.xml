@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sms</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">AsOjJBe31JQfFyCOfgxF5nXNJOYpPEtEtdzlee5o</string>
+    <string name="back4app_client_key">woq8UvYRfI0QBcA9mpIPVuPCm0sJaAuPXa5ktuK2</string>
+
+</resources>
